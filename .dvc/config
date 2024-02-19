@@ -1,0 +1,4 @@
+[core]
+    remote = firstdvcstorage
+['remote "firstdvcstorage"']
+    url = ../remotestorage
